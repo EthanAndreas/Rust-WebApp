@@ -139,9 +139,7 @@ CREATE TABLE users (
 - Implement JWT authentication
 - Add input validation
 - Add custom middleware
-- Add integration tests
 #### Frontend:
 - Add global state management
 - Add more components
-- Add unit tests
 - Add custom styling
