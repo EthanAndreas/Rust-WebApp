@@ -1,0 +1,10 @@
+.auth-container {
+    max-width: 400px;
+    margin: 2rem auto;
+    padding: 2rem;
+}
+
+.navbar {
+    padding: 1rem;
+    margin-bottom: 2rem;
+}
