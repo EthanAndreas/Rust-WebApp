@@ -1,4 +1,27 @@
-# Rust webapp
+# Rust Webapp
+
+[![version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/EthanAndreas/Rust-Webapp)
+[![author](https://img.shields.io/badge/author-EthanAndreas-blue)](https://github.com/EthanAndreas)
+
+## Table of Contents
+- [Description](#description)
+- [Architecture](#architecture)
+- [Technologies Used](#technologies-used)
+  - [Backend (Actix-web)](#backend-actix-web)
+  - [Frontend (Yew)](#frontend-yew)
+- [Features](#features)
+  - [Backend API Endpoints](#backend-api-endpoints)
+  - [Frontend Pages](#frontend-pages)
+- [Setup](#setup)
+- [Run](#run)
+- [Testing](#testing)
+- [API Documentation](#api-documentation)
+  - [Authentication](#authentication)
+  - [Protected Routes](#protected-routes)
+  - [Database Schema](#database-schema)
+- [Future Improvements](#future-improvements)
+
+## Description
 
 This project is a simple web application built using Rust.
 It contains a backend server using Actix-web and a frontend using Yew.
