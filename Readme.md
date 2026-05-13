@@ -27,6 +27,7 @@ This project is a simple web application built using Rust.
 It contains a backend server using Actix-web and a frontend using Yew.
 The backend includes user authentication, JWT token generation, and a simple API for managing users with a PostgreSQL database.
 The frontend is a single-page application (SPA) that communicates with the backend API.
+This project is a learning exercise in Rust and CLI development, and is not intended for production use.
 
 ## Architecture
 
